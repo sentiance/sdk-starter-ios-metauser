@@ -1,4 +1,4 @@
-# Sentiance SDK Starter
+# Sentiance SDK MetaUsers Starter
 
 A simple single-view application that uses the Sentiance SDK.
    
